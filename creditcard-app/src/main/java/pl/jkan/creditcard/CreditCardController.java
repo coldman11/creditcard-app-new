@@ -18,9 +18,9 @@ class CreditCardController {
         return "200 zł";
     }
     @PostMapping("/{number}/{money}")
-    public void withdraw(@PathVariable, String number, @PathVariable double money) {
+    public void withdraw(@PathVariable String number, @PathVariable double money) {
         try {
-            api.widthdraw(number, money);
+            api.withdraw(number, money);
         } catch (Throwable e) {
             
         }

@@ -2,8 +2,10 @@ pl/jkan/creditcard/App.class
 pl/jkan/creditcard/InsufficientCreditLimitException.class
 pl/jkan/creditcard/CantRepayNegativeAmountException.class
 pl/jkan/creditcard/CreditCard.class
+pl/jkan/creditcard/CreditCardController.class
 pl/jkan/creditcard/NotEnoughMoneyException.class
 pl/jkan/creditcard/CreditCardApi.class
 pl/jkan/creditcard/CreditCardRepository.class
+pl/jkan/creditcard/CreditCardConfiguration.class
 pl/jkan/creditcard/TransactionOnBlockedCardException.class
 pl/jkan/creditcard/LimitAlreadyAssignedException.class

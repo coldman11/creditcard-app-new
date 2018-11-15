@@ -1,6 +1,7 @@
 package pl.jkan.creditcard;
 
 import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.Bean;
 
 @Configuration
 class CreditCardConfiguration {
